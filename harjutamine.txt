@@ -1,1 +1,2 @@
 GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab teil ja teistel kõikjal projektidega koos töötada. Seda kasutavad programmeeriad, et teha jagada oma projekte ja kuidas nad selleni on jõudnud või, et teha koostööd kellegiga. 
+Hetkel kasutan mina juba GitHubi ühes ÕV-s skriptimine, kus me kasutame githubi, et jäädvustada protsessi ja skripte, mis me teeme praktikumide jaoks. Tänu sellele saan ma lihtsalt tagasi vaadata, kuidas ma kindlaid asju tegin ja tuletada meelde endale asju.
