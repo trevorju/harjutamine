@@ -1,1 +1,1 @@
-Harjutamine
+GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab teil ja teistel kõikjal projektidega koos töötada. Seda kasutavad programmeeriad, et teha jagada oma projekte ja kuidas nad selleni on jõudnud või, et teha koostööd kellegiga. 
